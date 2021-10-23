@@ -54,6 +54,12 @@ background: linear-gradient(76deg, rgba(0,0,0,1) 0%, rgba(141,239,255,1) 0%, rgb
   
   
 }
+#hd h1{
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(245, 220, 150), rgb(215, 240, 106));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .box{
   margin-left: auto;
   margin-right: auto;
